@@ -3,5 +3,5 @@ I'm a Front-End developer and student on Information System bachelor's degree at
 
 I invite you to see my projects on my website! 👇👇
 
-🔗 franciscogalarza.com.ar.
-💼 My personal Linkedin https://www.linkedin.com/in/francisco-galarza/
+- 🔗 [franciscogalarza.com.ar] (https://www.franciscogalarza.com.ar)
+- 💼 [My personal Linkedin] (https://www.linkedin.com/in/francisco-galarza/)
