@@ -1,7 +1,6 @@
-## Hi, I'm Francisco. 🙋‍♂️
-I'm a Front-End developer and student on Information System bachelor's degree at UADER - FCYT.
-
-I invite you to see my projects on my website! 👇👇
+## 👋 Hi, I'm Francisco.
+I'm a Systems Analyst and Full-Stack Developer.
+I'm currently studying for a Bachelor's Degree in Information Systems at UADER - FCYT.
 
 - 🔗 [franciscogalarza.com.ar](https://www.franciscogalarza.com.ar)
-- 💼 [My personal Linkedin](https://www.linkedin.com/in/francisco-galarza/)
+
